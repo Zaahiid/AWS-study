@@ -32,4 +32,3 @@
 
 - Market leader in IaaS (Infrastructure as a Service) and PaaS (Platform as a Service) public cloud
 
-  ![SKJD](https://github.com/Zaahiid/AWS-study/assets/119992167/86346163-ded8-495c-8a3d-ab3713c43b11)
